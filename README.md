@@ -53,3 +53,13 @@ My self akash. I live in mumbai,maharashtra. Currently I am studying in IIT Goa 
 	-Instructor name :*Saumya Bajpai*
 	
 -----------------
+
+# Hobbies and Interests
+
+- Hobbies and Interest
+	- Playing cricket
+	- coding
+	- playing Among us
+	- Running
+	- Swimming
+	- learning languages
