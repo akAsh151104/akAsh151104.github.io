@@ -25,30 +25,37 @@ My self akash. I live in mumbai,maharashtra. Currently I am studying in IIT Goa 
 # Course @ IIT Goa
 
 - Electrical Engineering
+
 	-Course code : **EE101**
 	-Instructor name :*Apeksha Madhukar*
 
 -  Computer Science
+-  
 	-Course code : **CS102**
 	-Instructor name :*Clint George*
 	
 - Physics
+
 	-Course code : **PH102**
 	-Instructor name :*Vaibhav Wasnik*
 	
 - Biology
+
 	-Course code : **BIO101**
 	-Instructor name :*Sreenath balakrishnan*
 	
 - Mechanical Engineering
+
 	-Course code : **ME102**
 	-Instructor name :*Arimdas*
 	
 - Mathematics
+
 	-Course code : **MTH102**
 	-Instructor name :*Kalpesh Haria*
 	
 - Mathematics
+
 	-Course code : **MTH103**
 	-Instructor name :*Saumya Bajpai*
 	
